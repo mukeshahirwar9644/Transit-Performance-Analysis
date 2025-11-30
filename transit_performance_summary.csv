@@ -1,0 +1,17 @@
+metric_category,metric_name,metric_value
+Overall Metrics,total_shipments_analyzed,99.0
+Overall Metrics,avg_transit_hours,94.04292929292929
+Overall Metrics,median_transit_hours,93.25
+Overall Metrics,std_dev_transit_hours,64.82990097637094
+Overall Metrics,min_transit_hours,15.333333333333334
+Overall Metrics,max_transit_hours,544.2833333333333
+Facility Metrics,avg_facilities_per_shipment,4.212121212121212
+Facility Metrics,median_facilities_per_shipment,4.0
+Facility Metrics,mode_facilities_per_shipment,4.0
+Facility Metrics,avg_hours_per_facility,22.141539602372934
+Facility Metrics,median_hours_per_facility,19.45277777777778
+Service Type Comparison,avg_transit_hours_by_service_type_FEDEX_EXPRESS_SAVER,94.04292929292929
+Service Type Comparison,avg_facilities_by_service_type_FEDEX_EXPRESS_SAVER,4.212121212121212
+Service Type Comparison,count_shipments_by_service_type_FEDEX_EXPRESS_SAVER,99.0
+Delivery Performance,pct_first_attempt_delivery,63.63636363636363
+Delivery Performance,avg_out_for_delivery_attempts,0.9696969696969697
